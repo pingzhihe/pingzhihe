@@ -1,2 +1,2 @@
 # pingzhihe
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pingzhihe&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pingzhihe&theme=default)
