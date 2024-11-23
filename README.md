@@ -1,4 +1,4 @@
 
 Hello！
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pingzhihe&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pingzhihe&theme=default)
